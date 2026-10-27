@@ -1,7 +1,7 @@
 {
-  "updated": "2026-10-27T09:39:34.830Z",
-  "source": "Kalodata UK Product, saved filter 'Predictive Insights' (top 20 scored, best 6 not saturated); shop and image from each TikTok Shop listing",
-  "count": 5,
+  "updated": "2026-10-27T08:39:32.000Z",
+  "source": "Kalodata UK Product, saved filter 'Predictive Insights' (top 20 scored, best 6 not saturated, topped up with the best saturated products when fewer than 6); shop and image from each TikTok Shop listing",
+  "count": 6,
   "products": [
     {
       "position": 1,
@@ -117,6 +117,29 @@
       ],
       "shop": "lorealparisuk",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/4d4ff128244f49b49fb4da829bb9ef99~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
+    },
+    {
+      "position": 6,
+      "productId": "1729508368665189371",
+      "product": "[Biodance Official] Hydrogel Facemask (4 sheets) | Pore Tightening, Firmness, Hydration, Glow, Glass Skin, Sleeping Mask",
+      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729508368665189371",
+      "score": 8.5,
+      "timing": "36h+",
+      "momentum": "Saturation",
+      "growth": "436.6%",
+      "creators": 510,
+      "commission": "15%",
+      "trend": [
+        203,
+        282,
+        723,
+        1923,
+        4200,
+        3988,
+        2513
+      ],
+      "shop": "Biodance Store UK",
+      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/23de3322d5f94c2b9df5267d01a3676f~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     }
   ]
 }
