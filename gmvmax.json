@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T09:39:34.830Z",
+  "updated": "2026-10-27T08:39:32.000Z",
   "source": "Kalodata UK Product, saved filter 'GMV Max Radar', sorted by revenue; units sold from each TikTok Shop listing",
   "count": 15,
   "products": [
@@ -71,36 +71,12 @@
       "avgPrice": "£394.00",
       "commission": "6%",
       "revenueYesterday": "£14.18k",
-      "unitsSold": "484",
+      "unitsSold": "482",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/64725d00daa143acbfbd26e7eaca2a04~tplv-t5fjg24jzw-crop-webp:800:1066.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
       "position": 4,
-      "productId": "1729930528000285690",
-      "product": "2 PCS 6/9 FT Real-Touch Artificial CedarGarlands - Flexible Hangable Green Pine Greenery,Farmhouse Aesthetic Home Decor, House Decor forIndoors Mantle Wall, New Year Festive Supplies",
-      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729930528000285690",
-      "activeCreators": 20,
-      "growth": "579.7%",
-      "trend": [
-        2298,
-        1511,
-        4184,
-        2201,
-        1846,
-        1593,
-        859,
-        14034
-      ],
-      "avgPrice": "£22.49",
-      "commission": "-",
-      "revenueYesterday": "£14.03k",
-      "unitsSold": "4.3K",
-      "soldSource": "tiktok_listing",
-      "image": "https://img.kalocdn.com/tiktok.product/1729930528000285690/cover.png"
-    },
-    {
-      "position": 5,
       "productId": "1729829412874132283",
       "product": "Shark Classic Upright Vacuum | Lift-Away Technology | Anti-Allergen | Corded | Carpet & Hard-Floor Cleaning | NV602UK",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729829412874132283",
@@ -124,7 +100,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/61d8f6a1be5b4e6283381e28de6faa71~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 6,
+      "position": 5,
       "productId": "1729505090746751803",
       "product": "Shark PowerPro Pet Cordless Vacuum Cleaner | Lightweight, Floor Detect, Anti Hair Wrap, Anti-Allergen Complete Seal, Flexible Design & Handheld Mode | IZ380UKT",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729505090746751803",
@@ -148,7 +124,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/54c6f6900e28436e9821a665ae78a354~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 7,
+      "position": 6,
       "productId": "1729465721947983529",
       "product": "Entina Tina2C 3D Printer for Kids & Beginners, Fully Assembled Starter Mini 3D Printer, Start in 8 Mins, App & WiFi Control, Auto Leveling, 1500+ Model Library, 20+ Creative DIY Modules for STEM, Home",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729465721947983529",
@@ -167,12 +143,12 @@
       "avgPrice": "£236.00",
       "commission": "3%",
       "revenueYesterday": "£11.33k",
-      "unitsSold": "622",
+      "unitsSold": "618",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/066663cf742143d593dd3b10d0a91f01~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 8,
+      "position": 7,
       "productId": "1729432749607521706",
       "product": "Men's Solid Button Fly Zipper Pocket Thermal Lined Pants, Regular-Fit Windproof Warm Trousers for Outdoor Activities, Men's Winter Casual Bottoms, Streetwear Comfy Trousers",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729432749607521706",
@@ -191,12 +167,12 @@
       "avgPrice": "£19.71",
       "commission": "6%",
       "revenueYesterday": "£10.37k",
-      "unitsSold": "56.8K",
+      "unitsSold": "56.7K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-general.tiktokcdn-eu.com/tos-alisg-i-aphluv4xwc-sg/d624b0862d1f4b9a96c47c22a5737f30~tplv-aphluv4xwc-crop-webp:1350:1800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 9,
+      "position": 8,
       "productId": "1729924023615330735",
       "product": "Alivio Electric Heated Clothes Airer, Portable Folding Laundry Clothes Dryer Heat Rack - White",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729924023615330735",
@@ -220,7 +196,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/9cf26adbef5748988479f464fcbfbcf7~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 10,
+      "position": 9,
       "productId": "1729828884298439602",
       "product": "Magnetic Wireless Power Bank 5000mAh, Portable Charger with USB-C Charging, Slim Mini Battery Pack with Magnetic Alignment and Magnetic Ring Adapter for Compatible Smartphones and Qi-Enabled Devices, Father’s Day Gift for Dad",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729828884298439602",
@@ -244,7 +220,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/d341739544af48e8884eb920f78b53be~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 11,
+      "position": 10,
       "productId": "1729399962207161880",
       "product": "Mens Thermal Fleece Lined Elasticated Cargo Combat Walking Trousers Pants Menswear Outdoor Gifting M L XL XXL 3XL",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729399962207161880",
@@ -263,12 +239,12 @@
       "avgPrice": "£19.99",
       "commission": "-",
       "revenueYesterday": "£6.92k",
-      "unitsSold": "48.3K",
+      "unitsSold": "48.2K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/f8dcb637620d492d950858723e67e428~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 12,
+      "position": 11,
       "productId": "1729678535150574331",
       "product": "Ninja Double Stack XL | 2-Level Air Fryer with Smart Cook System + 2 FREE GIFTS (Tongs & Apron) | 9.5L,​ Probe, 4 cooking levels, 2 Drawers and 2 Racks, Space Saving Design, 6 Cooking Functions | Cyber Space | SL451UKCYD",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729678535150574331",
@@ -292,7 +268,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/2862be9a5b7a4d748434f4a3c476e688~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 13,
+      "position": 12,
       "productId": "1729561526183758270",
       "product": "NOW 25% OFF! Color Wow Style On Steriods Texturising Spray for Instant Big Hair & Long-Lasting Hold Gel Haircare",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729561526183758270",
@@ -316,7 +292,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/aed6ce332257469a8c07f30630be3571~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 14,
+      "position": 13,
       "productId": "1729868758705412826",
       "product": "Solar Camping Lantern 4-Pack - Rechargeable LED Lights, Outdoor Camping Light, Magnetic Base & Foldable Hanging Hook, Collapsible Lamp Battery Powered Perfect for Power Outages, Hiking, Emergencies Flashlight set",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729868758705412826",
@@ -340,7 +316,7 @@
       "image": "https://p16-oec-general.tiktokcdn-eu.com/tos-alisg-i-aphluv4xwc-sg/c46f62d7d3954c7aa97e32cb140e0212~tplv-aphluv4xwc-crop-webp:1800:1800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 15,
+      "position": 14,
       "productId": "1729455565049400430",
       "product": "4Kg Fizzy, Jelly, Blue and Pink Sweet Assortment",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729455565049400430",
@@ -362,6 +338,30 @@
       "unitsSold": "52.1K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/b2479488f1f04526898527b1116067e3~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
+    },
+    {
+      "position": 15,
+      "productId": "1729813535022357462",
+      "product": "WSGDSG Power Bank 50000mAh USB Large Battery Pack With LED Display, 22.5W Fast C",
+      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729813535022357462",
+      "activeCreators": 22,
+      "growth": ">999.9%",
+      "trend": [
+        0,
+        0,
+        0,
+        22,
+        0,
+        228,
+        2226,
+        5181
+      ],
+      "avgPrice": "£17.99",
+      "commission": "-",
+      "revenueYesterday": "£5.18k",
+      "unitsSold": "526",
+      "soldSource": "tiktok_listing",
+      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/ff96e3dc763447408e7866f56077717d~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     }
   ]
 }
