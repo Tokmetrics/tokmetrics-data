@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T11:43:10.597Z",
+  "updated": "2026-10-28T10:12:02.000Z",
   "source": "Kalodata UK Product, saved filter 'GMV Max Radar', sorted by revenue; units sold from each TikTok Shop listing",
   "count": 30,
   "products": [
@@ -23,7 +23,7 @@
       "avgPrice": "£394.00",
       "commission": "6%",
       "revenueYesterday": "£21.28k",
-      "unitsSold": "210",
+      "unitsSold": "212",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/c22cdd829ab9401fbc3c1d1f819f1200~tplv-t5fjg24jzw-crop-webp:800:1066.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -47,7 +47,7 @@
       "avgPrice": "£186.73",
       "commission": "3%",
       "revenueYesterday": "£15.31k",
-      "unitsSold": "3.4K",
+      "unitsSold": "3.5K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/ed09b72b6dc94f8faa886a9498852c03~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -71,7 +71,7 @@
       "avgPrice": "£394.00",
       "commission": "6%",
       "revenueYesterday": "£14.18k",
-      "unitsSold": "494",
+      "unitsSold": "684",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/64725d00daa143acbfbd26e7eaca2a04~tplv-t5fjg24jzw-crop-webp:800:1066.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -119,7 +119,7 @@
       "avgPrice": "£114.99",
       "commission": "5%",
       "revenueYesterday": "£13.11k",
-      "unitsSold": "4.6K",
+      "unitsSold": "5.0K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/61d8f6a1be5b4e6283381e28de6faa71~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -143,7 +143,7 @@
       "avgPrice": "£194.99",
       "commission": "5%",
       "revenueYesterday": "£12.48k",
-      "unitsSold": "3.1K",
+      "unitsSold": "3.2K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/54c6f6900e28436e9821a665ae78a354~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -167,7 +167,7 @@
       "avgPrice": "£236.00",
       "commission": "3%",
       "revenueYesterday": "£11.33k",
-      "unitsSold": "629",
+      "unitsSold": "675",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/066663cf742143d593dd3b10d0a91f01~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -191,7 +191,7 @@
       "avgPrice": "£19.71",
       "commission": "6%",
       "revenueYesterday": "£10.37k",
-      "unitsSold": "56.9K",
+      "unitsSold": "57.3K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-general.tiktokcdn-eu.com/tos-alisg-i-aphluv4xwc-sg/d624b0862d1f4b9a96c47c22a5737f30~tplv-aphluv4xwc-crop-webp:1350:1800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -215,7 +215,7 @@
       "avgPrice": "£34.29",
       "commission": "-",
       "revenueYesterday": "£8.98k",
-      "unitsSold": "1.3K",
+      "unitsSold": "1.4K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/9cf26adbef5748988479f464fcbfbcf7~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -239,7 +239,7 @@
       "avgPrice": "£10.99",
       "commission": "-",
       "revenueYesterday": "£8.67k",
-      "unitsSold": "7.7K",
+      "unitsSold": "8.4K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/d341739544af48e8884eb920f78b53be~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -263,14 +263,14 @@
       "avgPrice": "£19.99",
       "commission": "-",
       "revenueYesterday": "£6.92k",
-      "unitsSold": "48.3K",
+      "unitsSold": "48.4K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/f8dcb637620d492d950858723e67e428~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
       "position": 12,
       "productId": "1729678535150574331",
-      "product": "Ninja Double Stack XL | 2-Level Air Fryer with Smart Cook System + 2 FREE GIFTS (Tongs & Apron) | 9.5L, Probe, 4 cooking levels, 2 Drawers and 2 Racks, Space Saving Design, 6 Cooking Functions | Cyber Space | SL451UKCYD",
+      "product": "Ninja Double Stack XL | 2-Level Air Fryer with Smart Cook System + 2 FREE GIFTS (Tongs & Apron) | 9.5L,​ Probe, 4 cooking levels, 2 Drawers and 2 Racks, Space Saving Design, 6 Cooking Functions | Cyber Space | SL451UKCYD",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729678535150574331",
       "activeCreators": 42,
       "growth": "116.1%",
@@ -311,7 +311,7 @@
       "avgPrice": "£21.00",
       "commission": "7%",
       "revenueYesterday": "£6.32k",
-      "unitsSold": "47.9K",
+      "unitsSold": "48.2K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/aed6ce332257469a8c07f30630be3571~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -335,7 +335,7 @@
       "avgPrice": "£17.16",
       "commission": "-",
       "revenueYesterday": "£5.66k",
-      "unitsSold": "1.7K",
+      "unitsSold": "1.9K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-general.tiktokcdn-eu.com/tos-alisg-i-aphluv4xwc-sg/c46f62d7d3954c7aa97e32cb140e0212~tplv-aphluv4xwc-crop-webp:1800:1800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -359,7 +359,7 @@
       "avgPrice": "£11.99",
       "commission": "5%",
       "revenueYesterday": "£5.30k",
-      "unitsSold": "52.2K",
+      "unitsSold": "52.8K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/b2479488f1f04526898527b1116067e3~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -383,7 +383,7 @@
       "avgPrice": "£17.99",
       "commission": "-",
       "revenueYesterday": "£5.18k",
-      "unitsSold": "536",
+      "unitsSold": "650",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/ff96e3dc763447408e7866f56077717d~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -407,7 +407,7 @@
       "avgPrice": "£12.87",
       "commission": "-",
       "revenueYesterday": "£5.05k",
-      "unitsSold": "2.7K",
+      "unitsSold": "2.8K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/b5337fbf747d4d96ab3c0ab0ea255a11~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -431,7 +431,7 @@
       "avgPrice": "£15.99",
       "commission": "-",
       "revenueYesterday": "£4.97k",
-      "unitsSold": "1.5K",
+      "unitsSold": "1.7K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-general.tiktokcdn-eu.com/tos-alisg-i-aphluv4xwc-sg/eb8ef84b06d9431d9fdafbc122958e8b~tplv-aphluv4xwc-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -455,7 +455,7 @@
       "avgPrice": "£21.99",
       "commission": "-",
       "revenueYesterday": "£4.95k",
-      "unitsSold": "1.1K",
+      "unitsSold": "1.2K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/40afd1a9536743649138f0a3f6f3af7c~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -479,7 +479,7 @@
       "avgPrice": "£10.39",
       "commission": "-",
       "revenueYesterday": "£4.87k",
-      "unitsSold": "1.9K",
+      "unitsSold": "2.3K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/55901e2d721b40cfaac9369aedbb0a59~tplv-t5fjg24jzw-crop-webp:1800:1800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -503,7 +503,7 @@
       "avgPrice": "£154.99",
       "commission": "-",
       "revenueYesterday": "£4.80k",
-      "unitsSold": "249",
+      "unitsSold": "274",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/3e00510922534ccca171e06e40e001e9~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -529,7 +529,7 @@
       "revenueYesterday": "£4.68k",
       "unitsSold": "2.9K",
       "soldSource": "tiktok_listing",
-      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/3d6f8e151df1490596c2a0724387e5be~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
+      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/330d70f23fcd43458c360ad67ee84030~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
       "position": 23,
@@ -575,7 +575,7 @@
       "avgPrice": "£26.98",
       "commission": "-",
       "revenueYesterday": "£4.40k",
-      "unitsSold": "32.6K",
+      "unitsSold": "32.8K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-general.tiktokcdn-eu.com/tos-maliva-i-o3syd03w52-us/249a05fd0be045e684627bdf3138542a~tplv-o3syd03w52-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -599,7 +599,7 @@
       "avgPrice": "£24.80",
       "commission": "7%",
       "revenueYesterday": "£4.17k",
-      "unitsSold": "391",
+      "unitsSold": "463",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/17593537903d49f8afc687173ee1d775~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -623,7 +623,7 @@
       "avgPrice": "£314.99",
       "commission": "5%",
       "revenueYesterday": "£4.09k",
-      "unitsSold": "325",
+      "unitsSold": "333",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/61d4a51391444b20be4b16eb92292348~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -647,7 +647,7 @@
       "avgPrice": "£184.99",
       "commission": "5%",
       "revenueYesterday": "£4.07k",
-      "unitsSold": "942",
+      "unitsSold": "960",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/2b8eb7a8cb6f49e58b9f80965e86a752~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -671,7 +671,7 @@
       "avgPrice": "£204.99",
       "commission": "5%",
       "revenueYesterday": "£3.89k",
-      "unitsSold": "379",
+      "unitsSold": "390",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/914a963d60344219a54853321841adf3~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -695,7 +695,7 @@
       "avgPrice": "£154.00",
       "commission": "6%",
       "revenueYesterday": "£3.85k",
-      "unitsSold": "252",
+      "unitsSold": "267",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/48642f82810949e19443d014e111ee93~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
@@ -719,7 +719,7 @@
       "avgPrice": "£21.95",
       "commission": "4%",
       "revenueYesterday": "£3.80k",
-      "unitsSold": "1.3K",
+      "unitsSold": "1.4K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/ad786fb00e3d4344a4e5146c10e693e3~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     }
