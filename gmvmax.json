@@ -1,34 +1,58 @@
 {
-  "updated": "2026-11-23T08:29:34.000Z",
+  "updated": "2026-11-23T09:12:42.000Z",
   "source": "Kalodata UK Product, saved filter 'GMV Max Radar' (top 30 by revenue), ranked by TokMetrics potential score (revenue growth, recent momentum, low creator competition, revenue, commission); units sold from each TikTok Shop listing",
   "count": 30,
   "products": [
     {
       "position": 1,
-      "productId": "1729850760885082787",
-      "product": "Pet Odour Air Purifier for Home, Cat Litter Box Deodoriser, Dog Urine Smell Remover, Smoke & Musty Odour Eliminator, Plug in Ozone Negative Ion Air Freshener, Quiet Filterless Portable Deodoriser, UK Plug",
-      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729850760885082787",
-      "activeCreators": 11,
+      "productId": "1729867457636899552",
+      "product": "P.Louise Bestie And Me Heart To Heart Lip Oil Set",
+      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729867457636899552",
+      "activeCreators": 14,
       "growth": ">999.9%",
       "trend": [
-        139,
-        128,
-        162,
-        133,
-        359,
-        721,
-        509,
-        4200
+        89,
+        17,
+        34,
+        325,
+        188,
+        68,
+        1542,
+        14008
       ],
-      "avgPrice": "£99.99",
-      "commission": "10%",
-      "revenueYesterday": "£3.10k",
-      "unitsSold": "1.1K",
+      "avgPrice": "£17.00",
+      "commission": "12%",
+      "revenueYesterday": "£4.73k",
+      "unitsSold": "2.2K",
       "soldSource": "tiktok_listing",
-      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/b39090c946b8416392754e982af09171~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
+      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/b50c20ea87af48e4b71ec801c2fa6fed~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
       "position": 2,
+      "productId": "1730003208702958537",
+      "product": "Portable Gas Stove with Carry Case, Camping Cooker with Automatic Ignition and Heat Control, Single Burner BBQ Stove (Gas Canister Not Included)",
+      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1730003208702958537",
+      "activeCreators": 12,
+      "growth": ">999.9%",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2057,
+        5654
+      ],
+      "avgPrice": "£14.80",
+      "commission": "-",
+      "revenueYesterday": "£5.65k",
+      "unitsSold": "538",
+      "soldSource": "tiktok_listing",
+      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/8146cf9bb7c0453f974f389f79e75b2a~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
+    },
+    {
+      "position": 3,
       "productId": "1729457067679977184",
       "product": "P.Louise On The Mend Skin Barrier Repair Lotion",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729457067679977184",
@@ -52,7 +76,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/8d178e1ce4164d8b932a43e4ee9f8df3~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 3,
+      "position": 4,
       "productId": "1729886073032776220",
       "product": "Berghaus Men's Vantashell Jacket",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729886073032776220",
@@ -76,7 +100,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/9aafdccecf644edfa04bad59e50b8c88~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 4,
+      "position": 5,
       "productId": "1729914984361073036",
       "product": "【Mixed Black & Brown Lashes】Wosheer Dual-Color Lash Clusters MUELY ROSMO REEDA Kit 3D Large Capacity XL Airy Volume Light Invisible Soft & Natural Wispy Waterproof Easy DIY Lash Extension Last All Day Instant Curl & Lift Effortless Curled Look",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729914984361073036",
@@ -100,7 +124,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/9be8a86fbd27438eb4e05d8c06a4801e~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 5,
+      "position": 6,
       "productId": "1729882230300842323",
       "product": "SOPAMI 5/10PCS Eco-Friendly Sticky Sealant Clay - Strong Adhesive Waterproof Anti-Leak Exterior Interior Caulk, Quick-Curing, Waterproof Sealing Coating, Leakproof Airtight Seal for Air Conditioner Holes Wall Cracks",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729882230300842323",
@@ -124,7 +148,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/146f8f9827d94b6fae527691b10721e4~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 6,
+      "position": 7,
       "productId": "1729947240459901703",
       "product": "The Hunger Games Deluxe Paperback Box Set | Sprayed-edge special editions",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729947240459901703",
@@ -148,7 +172,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/7f80b1d53fe94129abb64e99976b778e~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 7,
+      "position": 8,
       "productId": "1729976866824034502",
       "product": "Womens Oversized Hoodie Letter Print Fleece Lined Pullover Hooded Sweatshirt Casual Streetwear Top with Kangaroo Pocket,flannel,blanket,personalised,jumper,designs Womenswear Long Sleeve Long Sleeve",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729976866824034502",
@@ -172,7 +196,7 @@
       "image": "https://p16-oec-general.tiktokcdn-eu.com/tos-alisg-i-aphluv4xwc-sg/f5fec6282f6b43b0b36c0b2b95c4422c~tplv-aphluv4xwc-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 8,
+      "position": 9,
       "productId": "1729981612177529598",
       "product": "Buy 1 get 1 free --Korean Collagen Serum for Mature Skin",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729981612177529598",
@@ -194,30 +218,6 @@
       "unitsSold": "2.4K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/a7d3984485184018a4441b92213636cd~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
-    },
-    {
-      "position": 9,
-      "productId": "1729562815524543170",
-      "product": "Valiant Portable Ash Vacuum Cleaner | 600W 4 Litre Capacity | Includes HEPA and Cloth Filter | Efficient Ash Removal | General Purpose Vac",
-      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729562815524543170",
-      "activeCreators": 14,
-      "growth": "292.6%",
-      "trend": [
-        50,
-        50,
-        119,
-        1812,
-        871,
-        886,
-        1723,
-        3035
-      ],
-      "avgPrice": "£26.39",
-      "commission": "10%",
-      "revenueYesterday": "£3.03k",
-      "unitsSold": "351",
-      "soldSource": "tiktok_listing",
-      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/0b9c848f2aee489282db7e66483228ea~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
       "position": 10,
@@ -245,30 +245,6 @@
     },
     {
       "position": 11,
-      "productId": "1729921506623658641",
-      "product": "Brand New R36XX Retro Handheld Console, IPS Screen, 128GB SD Card, Charging Cable Included, Portable for Home & Travel, Ideal Christmas & Birthday, Full Tech Support By LevelUpSmallShop",
-      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729921506623658641",
-      "activeCreators": 14,
-      "growth": "139.5%",
-      "trend": [
-        297,
-        197,
-        121,
-        1931,
-        1730,
-        2966,
-        3239,
-        3519
-      ],
-      "avgPrice": "£39.99",
-      "commission": "11%",
-      "revenueYesterday": "£3.52k",
-      "unitsSold": "1.7K",
-      "soldSource": "tiktok_listing",
-      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/c27913e0c3114a0c9abc983cd8e839b8~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
-    },
-    {
-      "position": 12,
       "productId": "1729663724419914523",
       "product": "SUPERLEX 750W Electric Deep Fill Omelette Maker Egg Cooking Machine with Adjustable Temperature Control Required Fast Preheat For 2 Portions Easy Clean Compact Omelette Maker Waffle Maker",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729663724419914523",
@@ -292,7 +268,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/bc18414ab9134f698aec7cabc8b10431~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 13,
+      "position": 12,
       "productId": "1729897399840578193",
       "product": "Black Friday Redchef 16pcs Ceramic Pots and Pans Set Non Stick, Nonstick Kitchen Cookware Set with Detachable Handle, PFAS PFOA & PTFE Free, RV Ceramic Cookware Set for Camping, Oven Safe Stackable",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729897399840578193",
@@ -316,7 +292,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/dcb640159e4240b58db8e6c0de1a1228~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 14,
+      "position": 13,
       "productId": "1729948086986251092",
       "product": "Rechargeable Electric Heated Gloves for Men & Women, 3000mAh Battery, 3 Heat Levels Up to 131°F, Back of Hand & Finger Heating, Touchscreen Gloves for Cycling & Cold Weather Outdoor Activities",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729948086986251092",
@@ -338,6 +314,30 @@
       "unitsSold": "3.4K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/15894dcb75044621897b7ad2c322bb6d~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
+    },
+    {
+      "position": 14,
+      "productId": "1729878062277302775",
+      "product": "Laura Geller Line Smoother Fine Line Blurring Primer for Smooth Application and Blurring - Flawless Makeup Base",
+      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729878062277302775",
+      "activeCreators": 45,
+      "growth": "225.5%",
+      "trend": [
+        0,
+        0,
+        0,
+        0,
+        5535,
+        7758,
+        4248,
+        4860
+      ],
+      "avgPrice": "£36.00",
+      "commission": "25%",
+      "revenueYesterday": "£4.61k",
+      "unitsSold": "1.5K",
+      "soldSource": "tiktok_listing",
+      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/6d40c87a2e9142da9841419977fec96e~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
       "position": 15,
@@ -389,30 +389,6 @@
     },
     {
       "position": 17,
-      "productId": "1729756708438513864",
-      "product": "SRGARH Mattress Vacuum Cleaner, Bed Vacuum with 13000pa Powerful Suction 253.7nm UV-C Light, 18000 RPM/Min Brushroll, Cordless Handheld Vacuum with Dual Bins for Dust, Pet Hair,etc Home Cleaning Machine Deep Cleaning Machine",
-      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729756708438513864",
-      "activeCreators": 25,
-      "growth": "328.9%",
-      "trend": [
-        332,
-        814,
-        744,
-        536,
-        783,
-        1233,
-        902,
-        3224
-      ],
-      "avgPrice": "£45.41",
-      "commission": "11%",
-      "revenueYesterday": "£3.22k",
-      "unitsSold": "2.1K",
-      "soldSource": "tiktok_listing",
-      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/b987291d2e554f7b8805a660878e95ce~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
-    },
-    {
-      "position": 18,
       "productId": "1729968184740387083",
       "product": "AUSSIE BOUNCY CURLS MEGA BUNDLE 2X 1000ML Shampoo, Conditioner & Non-wash day Treatment",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729968184740387083",
@@ -436,31 +412,31 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/503b9093abb44b2dabbfa105743a2a49~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 19,
-      "productId": "1729909151309666662",
-      "product": "Amorelle Women’s Fleece-Lined Thermal Tights, Black Sheer Look, High-Waisted, Closed Toe, 4 Skin-Tone Shades",
-      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729909151309666662",
-      "activeCreators": 14,
-      "growth": "205.8%",
+      "position": 18,
+      "productId": "1729443402492513514",
+      "product": "LoudLook High Quality CH-5001 Ladies Grip Zip Casual Stretchy Black Sock Boots, Fashionable Knee Boots for Fall & Winter,  Ladies Causal Comfortable All-match 2025 Trendy Long Comfy Boots Walking Shoes Footwear for Women Girl, Perfect for Outdoor Bridal",
+      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729443402492513514",
+      "activeCreators": 36,
+      "growth": "367.4%",
       "trend": [
-        879,
-        748,
-        524,
-        1045,
-        1176,
-        1478,
-        1201,
-        3040
+        379,
+        958,
+        958,
+        1232,
+        734,
+        907,
+        2274,
+        4548
       ],
-      "avgPrice": "£19.49",
-      "commission": "21%",
-      "revenueYesterday": "£3.04k",
-      "unitsSold": "4.4K",
+      "avgPrice": "£24.99",
+      "commission": "12%",
+      "revenueYesterday": "£4.55k",
+      "unitsSold": "3.3K",
       "soldSource": "tiktok_listing",
-      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/3b740f44a10243a3aeebf23ab3a0234e~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
+      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/d020d9dd3b294444bb22e27aa4f28c65~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 20,
+      "position": 19,
       "productId": "1729905684984666587",
       "product": "Tommee Tippee 9-Piece Formula Feeding Starter Kit  Perfect Prep, PrepGo, Steriliser, Bottles & Baby Essentials",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729905684984666587",
@@ -484,7 +460,55 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/69e1a56593e84766808e8bc038af57fc~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
+      "position": 20,
+      "productId": "1729466423029304741",
+      "product": "【Black Friday】Stainless Steel Food Storage Container with Lid, Airtight Reusable Snack Container, Heavy-Duty Leakproof Storage Box for Home and Kitchen, Stainless Steel Storage Containers With Lids",
+      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729466423029304741",
+      "activeCreators": 29,
+      "growth": "160.6%",
+      "trend": [
+        1562,
+        1126,
+        1353,
+        1757,
+        2296,
+        4220,
+        4390,
+        6217
+      ],
+      "avgPrice": "£9.79",
+      "commission": "10%",
+      "revenueYesterday": "£6.21k",
+      "unitsSold": "16.0K",
+      "soldSource": "tiktok_listing",
+      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/0d8531b0d5f044d3a593a0fc88ae97ed~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
+    },
+    {
       "position": 21,
+      "productId": "1729916007375215355",
+      "product": "Ninja CRISPi DualZone 6-in-1 Glass Air Fryer  | Two 3.8L containers | Ideal for big family meals, entertaining and batch cooking | DD101UK",
+      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729916007375215355",
+      "activeCreators": 32,
+      "growth": "344.2%",
+      "trend": [
+        0,
+        0,
+        3743,
+        7465,
+        6131,
+        4781,
+        11515,
+        7685
+      ],
+      "avgPrice": "£264.99",
+      "commission": "5%",
+      "revenueYesterday": "£6.62k",
+      "unitsSold": "226",
+      "soldSource": "tiktok_listing",
+      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/54b712042e754dd2b17435826670327f~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
+    },
+    {
+      "position": 22,
       "productId": "1729767115391736001",
       "product": "Samsung Solo Microwave Triple Distribution System 23L",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729767115391736001",
@@ -508,7 +532,7 @@
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/d93955b3e62743bda4ddf0553f02f833~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
-      "position": 22,
+      "position": 23,
       "productId": "1729930702231017757",
       "product": "VOOTIK Digital Laser Tape Measure, 5M/16.4Ft 2-in-1 Laser Distance Meter with LCD Backlight, USB-C Rechargeable, 20 Data Memory, M/in/Ft Switchable Measuring Tool for DIY, Woodworking & Construction",
       "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729930702231017757",
@@ -530,30 +554,6 @@
       "unitsSold": "2.1K",
       "soldSource": "tiktok_listing",
       "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/651917c582b445fc97d2512557f269ae~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
-    },
-    {
-      "position": 23,
-      "productId": "1729840537071950169",
-      "product": "Rib Seam Detail Double Zip Top And Straight Leg Jogger Tracksuit Set",
-      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729840537071950169",
-      "activeCreators": 22,
-      "growth": "108.8%",
-      "trend": [
-        101,
-        1066,
-        2786,
-        872,
-        953,
-        2244,
-        3377,
-        3400
-      ],
-      "avgPrice": "£20.48",
-      "commission": "10%",
-      "revenueYesterday": "£3.40k",
-      "unitsSold": "1.3K",
-      "soldSource": "tiktok_listing",
-      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/5ab09a60909f4c3783bca96559974a64~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
       "position": 24,
@@ -581,27 +581,27 @@
     },
     {
       "position": 25,
-      "productId": "1729449595013535944",
-      "product": "VonHaus 24-75 inch Cantilever TV Bracket, 25-Year Guarantee, Solid TV Bracket, Heavy Gauge Cold Rolled Steel 【UK SELLER】",
-      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729449595013535944",
-      "activeCreators": 18,
-      "growth": "108.5%",
+      "productId": "1729774554149460097",
+      "product": "Ladies Womens Faux Suede Fold Over Knee High Shark Boots with Chunky Sole Women Footwear Shoe",
+      "productUrl": "https://www.tiktok.com/shop/gb/pdp/1729774554149460097",
+      "activeCreators": 26,
+      "growth": "122.7%",
       "trend": [
-        2485,
-        1277,
-        1181,
-        1835,
-        1086,
-        1262,
-        1216,
-        3080
+        5486,
+        2850,
+        3202,
+        2640,
+        2665,
+        4133,
+        6797,
+        9121
       ],
-      "avgPrice": "£38.99",
-      "commission": "8%",
-      "revenueYesterday": "£3.08k",
-      "unitsSold": "6.7K",
+      "avgPrice": "£24.99",
+      "commission": "10%",
+      "revenueYesterday": "£4.32k",
+      "unitsSold": "8.7K",
       "soldSource": "tiktok_listing",
-      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/a9f0672c80c24b27a72c99b797ac0bfc~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
+      "image": "https://p16-oec-eu-common-no.tiktokcdn-eu.com/tos-no1a-i-t5fjg24jzw-no/75f7ed40b4ae41e8bdaee6f14cac0e33~tplv-t5fjg24jzw-crop-webp:800:800.webp?dr=11209&t=555f072d&ps=933b5bde&shp=c940a200&shcp=9b759fb9&idc=no1a&from=3376456192"
     },
     {
       "position": 26,
